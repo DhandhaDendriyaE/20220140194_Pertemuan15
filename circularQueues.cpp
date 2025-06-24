@@ -1,3 +1,37 @@
+/**
+ * @mainpage Documentation Circular Queues
+ * 
+ * @section Introdution
+ * Project ini merupakan project struktur data
+ * menggunakan struktur data queues dengan pedekatan  circular arrays
+ * 
+ * @section Operation
+ * project ini memiliki beberapa operasi antara lain:
+ * 1. insert
+ * 2. Delete
+ * 3. Display
+ * 
+ * @section Cara penggunaan
+ * Berikut beberapa menu yang bisa digunakan:
+ * 1. en queue
+ * 2. de queue
+ * 3. display
+ * 4. explicit
+ * 
+ * @author profil
+ * - nama :
+ * - nim :
+ * - kelas :
+ * 
+ * @brief
+ * @brief
+ * @version 0.1
+ * @date 2025-06-23
+ * 
+ * @copyright Dewo@umy.ac.id (c) 2025
+ * 
+ */
+
 #include <iostream>
 using namespace std;
 /**
